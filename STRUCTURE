@@ -1,0 +1,8 @@
+Štruktúra básne (v origináli):
+
+Každý verš obsahuje 12 slabík. Po piatej alebo siedmej slabike (počítame od
+jednotky) by mal nasledovať predel medzi slovami (niekedy to ale jednoducho
+nevyšlo). V preklade sa snažíme dodržať počet slabík, ako aj predely po piatej alebo siedmej slabike. 
+
+Delenie na strofy je iba kvôli vizuálnej orientácii.
+
